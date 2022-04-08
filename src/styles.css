@@ -1,0 +1,18 @@
+.card,
+.jumbotron {
+  border-radius: 0;
+}
+.projectContainer {
+  min-width: 100%;
+}
+footer {
+  text-align: center;
+}
+.svg {
+  width: 15%;
+}
+.svg-white {
+  width: 15%;
+  filter: invert(96%) sepia(4%) saturate(378%) hue-rotate(262deg)
+    brightness(111%) contrast(100%);
+}
